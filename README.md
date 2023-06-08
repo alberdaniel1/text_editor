@@ -26,7 +26,6 @@ A text editor application that runs in the browser but also functions offline an
 
 To install the app onto your local computer, click the install button on the screen. 
 
-![jate-screenshot](https://user-images.githubusercontent.com/95051960/168297527-5a04975f-0351-40d2-bd58-6adc0da8194d.png)
 
 <a name="usage"></a>
 ## Usage 
