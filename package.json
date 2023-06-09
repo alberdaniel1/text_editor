@@ -14,16 +14,10 @@
     "client": "cd client && npm start",
     "heroku-postbuild": "npm run build"
   },
-  "dependencies": {
-    "express": "^4.17.1",
-    "webpack": "^5.51.1",
-    "webpack-cli": "^4.8.0"
-  },
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4",
-     "@babel/plugin-proposal-object-rest-spread": "~7.20.7"
-    
+    "@babel/plugin-proposal-object-rest-spread": "~7.20.7"
   }
 }
 
